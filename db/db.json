@@ -1,6 +1,9 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Let's Take Some Notes!",
+      "text": "This application allows you to add and delete notes. To add notes start by clicking the pencil icon at the top. Once you've entered your note in the body click the save icon located in the top right-hand corner.",
+      "id": "0"
     }
-]
+  ]
+}

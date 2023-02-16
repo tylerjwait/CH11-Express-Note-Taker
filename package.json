@@ -1,16 +1,15 @@
 {
-    "name": "note-taker",
-    "version": "1.0.0",
-    "description": "",
-    "main": "server.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "express": "^4.16.4"
-    }
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "An application that provides the user the ability to add new notes, and to delete notes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Tyler Wait",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
   }
-  
-  
+}
